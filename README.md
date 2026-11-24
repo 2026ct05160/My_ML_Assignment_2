@@ -4,8 +4,8 @@
 
 #### Google Colab / Jupyter Notebook
 
-1. Upload `adult.csv` to `MyDrive/ML_Assignment_2/adult.csv`.
-2. Open `ML_Assignment_2_Adult_Classification.ipynb` in Google Colab.
+1. Upload `adult.csv` to local drive or Google drive(`MyDrive/ML_Assignment_2/adult.csv`).
+2. Open `2026ct05160_ML_Assignment2.ipynb` in Google Colab.
 3. Run the first cell and authorize Google Drive access.
 4. Update `CSV_PATH` if the dataset is stored elsewhere.
 5. Select **Runtime > Run all**, or execute the cells in order.
