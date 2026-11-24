@@ -1,0 +1,26 @@
+{
+  "best_model": "Logistic Regression",
+  "selection_rule": "Highest F1 Score, then AUC as tie-breaker",
+  "random_state": 42,
+  "train_rows": 38924,
+  "test_rows": 9731,
+  "numeric_features": [
+    "age",
+    "fnlwgt",
+    "education-num",
+    "capitalgain",
+    "capitalloss",
+    "hoursperweek"
+  ],
+  "categorical_features": [
+    "workclass",
+    "education",
+    "marital-status",
+    "occupation",
+    "relationship",
+    "race",
+    "sex",
+    "native-country"
+  ],
+  "output_directory": "/content/drive/MyDrive/ML_Adult_income_assignment/Output1"
+}
